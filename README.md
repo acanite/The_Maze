@@ -16,8 +16,10 @@ Compilation
 $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
 Flowchart
 The Maze Flow Chart
+![flow](https://github.com/acanite/The_Maze/assets/100510532/6d6e2800-a000-4505-bb18-f1023069111d)
+
 
 Demo
+https://youtu.be/6T2N8gNUTQ8
 The Maze Demo
-
 
